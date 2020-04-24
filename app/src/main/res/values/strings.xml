@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jave App</string>
+    <string name="text_quantity">Quantity</string>
+    <string name="int_count">0</string>
+    <string name="button_order">Order</string>
+    <string name="text_price">Price</string>
+    <string name="int_price">$0</string>
+    <string name="button_increment">+</string>
+    <string name="button_decrement">-</string>
+
+</resources>
